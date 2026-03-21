@@ -6,7 +6,9 @@ I work with data using Python and Excel, and I enjoy exploring new tools and tec
 
 I like turning messy datasets into meaningful insights that support real-world decisions.
 
-⭐ Check out my pinned projects below!
+⭐ Check out my projects below:
+- https://github.com/stars/pychinnn/lists/data-analytics-bi-portfolio.
+- https://github.com/stars/pychinnn/lists/technical-labs-explorations
 
 ✨ Fun fact: 
 - I enjoy exploring patterns and trends in data
